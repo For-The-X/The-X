@@ -1,0 +1,12 @@
+{   "vscodeMarkdownNotes.newNoteDirectory": "/Foam",
+    "foam.graph.style": {
+        "background": "#202020",
+        "fontSize": 12,
+        "highlightedForeground": "#f9c74f",
+        "node": {
+            "note": "#277da1",
+            "placeholder": "#545454",
+            "feature": "green",
+        }
+    }
+}
