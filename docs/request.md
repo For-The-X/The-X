@@ -1,3 +1,6 @@
+---
+type: package
+---
 # request
 ## 原理
 ### 网页请求方式

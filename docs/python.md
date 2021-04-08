@@ -1,3 +1,6 @@
+---
+type: root 
+---
 # python
 
 ## data process

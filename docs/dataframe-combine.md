@@ -1,3 +1,6 @@
+---
+type: feature
+---
 # dataframe combine
 > process [[dataframe]]
 ### concat函数
@@ -23,7 +26,7 @@ pd.concat([df2,df3],axis=1,join='inner')
 0  2  3  4  1  2  3
 1  3  4  5  2  3  4 
 
-#ignore_index表示索引的合并方式，默认为False，会保留原df的索引，如果设置ignore_index=True，合并后的df会重置索引。
+# ignore_index表示索引的合并方式，默认为False，会保留原df的索引，如果设置ignore_index=True，合并后的df会重置索引。
 pd.concat([df1,df2],ignore_index=True)
    a  b  c
 0  1  2  3

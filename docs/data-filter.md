@@ -1,3 +1,6 @@
+---
+type: feature
+---
 # data filter
 process [[dataframe]]
 

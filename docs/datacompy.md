@@ -1,3 +1,6 @@
+---
+type: package
+---
 # datacompy
 > process [[dataframe]]
 

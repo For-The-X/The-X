@@ -6,7 +6,10 @@
         "node": {
             "note": "#277da1",
             "placeholder": "#545454",
-            "feature": "green",
+            "feature": "palegoldenrod",
+            "root": "palegreen",
+            "package": "paleturquoise",
+            "class":"palevioletred",
         }
     } ,
     "foam.openDailyNote.directory": "/daily_note"

@@ -1,3 +1,6 @@
+---
+type: feature
+---
 # column
 process [[dataframe]]
 
