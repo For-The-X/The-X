@@ -1,4 +1,4 @@
-{   "vscodeMarkdownNotes.newNoteDirectory": "/Foam",
+{   "vscodeMarkdownNotes.newNoteDirectory": "C:\\Users\\itjinxin\\OneDrive\\github\\King-Jin\\docs",
     "foam.graph.style": {
         "background": "#202020",
         "fontSize": 12,
@@ -8,5 +8,6 @@
             "placeholder": "#545454",
             "feature": "green",
         }
-    }
+    } ,
+    "foam.openDailyNote.directory": "/daily_note"
 }
