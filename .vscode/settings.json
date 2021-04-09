@@ -10,7 +10,8 @@
             "root": "palegreen",
             "package": "paleturquoise",
             "class":"palevioletred",
+            "key_point":"chocolate",
         }
     } ,
-    "foam.openDailyNote.directory": "/daily_note"
+    "foam.openDailyNote.directory": "C:\\Users\\itjinxin\\OneDrive\\github\\King-Jin\\daily_note"
 }
